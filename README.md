@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# My GitHub Profile 3D Contrib
+## My GitHub Profile 3D Contrib
 
 Here is the generated 3D profile image:
 
