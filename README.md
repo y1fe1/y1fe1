@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 ## My GitHub Profile 3D Contrib
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y1fe1)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
 This profile image was generated using [github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib) by [yoshi389111](https://github.com/yoshi389111).
